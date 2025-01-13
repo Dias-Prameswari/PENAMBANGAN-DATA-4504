@@ -4,6 +4,6 @@
 #### NIM : A11.2022.14532
 
 # Keterangan nama file 
-#### prediksi-forex-axcel = memprediksi harga XAUUSD
+#### prediksi-forex-axcel = code untuk memprediksi harga XAUUSD
 #### app = code untuk mendeploy prediksi harga XAUUSD
 #### dua file diatas menggunakan jumlah dataset 8000 lebih 
