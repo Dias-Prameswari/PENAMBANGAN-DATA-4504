@@ -14,14 +14,14 @@
 #### Forex digunakan oleh investor, perusahaan dan institusi untuk berbagai tujuan seperti investasi, hedging atau spekulasi.
 
 # Keterangan nama file 
-#### Prediksi Forex - Axcel : 
+#### data mining / uas / Prediksi Forex - Axcel : 
 - Dataset : Menggunakan dataset lebih dari 8.000 data historis
 - Model : Menggunakan Long Short Term Memory untuk prediksi
 - Keunggulan : Model ini memiliki kemampuan prediksi yang sangat baik, karena data yang digunakan lebih lengkap
 - Output : Memberikan hasil prediksi yang akurat untuk harga emas XAUUSD
 - Link Deployment : https://penambangan-data-4504-xuvmlhdfrqf8jrtheldpty.streamlit.app/
 
-#### Prediksi Forex - Mama RF : 
+#### data mining / uas / Prediksi Forex - Mama RF : 
 - Dataset : Menggunakan dataset lebih kecil, sekitar 260 data historis
 - Model : Menggunakan Random Forest untuk prediksi dengan tambahan analisis teknikal (SMA,RSI,BB/Bollinger Bands)
 - Hasil :
@@ -29,7 +29,7 @@
 - Visualisasi hasil prediksi sangat mendekati nilai aktual, mengindikasikan model bekerja dengan baik untuk dataset yang kecil.
 Catatan : Tetapi meski menunjukkan hasil visual dan statistik yang baik, ukuran dataset yang kecil membatasi kemampuan model untuk digunakan pada deployment skala besar.
 
-#### Prediksi Forex - Mama Des : 
+#### data mining / uas / Prediksi Forex - Mama Des : 
 - Dataset : Menggunakan dataset lebih kecil, sekitar 260 data historis
 - Model : Menggunakan Random Forest, Logistic Regression, Decision Tree untuk menghasilkan statistik trading seperti total profit, average profit per trade dan lain sebagainya
 - Hasil : Fokus pada analisis performa trading secara keseluruhan, bukan hanya prediksi harga
