@@ -24,7 +24,10 @@
 #### Prediksi Forex - Mama RF : 
 - Dataset : Menggunakan dataset lebih kecil, sekitar 260 data historis
 - Model : Menggunakan Random Forest untuk prediksi dengan tambahan analisis teknikal (SMA,RSI,BB/Bollinger Bands)
-- Hasil : Test Set MAE = 4.15, menunjukkan rata - rata kesalahan prediksi yang kecil. Visualisasi hasil prediksi sangat mendekati nilai aktual, mengindikasikan model bekerja dengan baik untuk dataset yang kecil. Tetapi meski menunjukkan hasil visual dan statistik yang baik, ukuran dataset yang kecil membatasi kemampuan model untuk digunakan pada deployment skala besar.
+- Hasil :
+- Test Set MAE = 4.15, menunjukkan rata - rata kesalahan prediksi yang kecil.
+- Visualisasi hasil prediksi sangat mendekati nilai aktual, mengindikasikan model bekerja dengan baik untuk dataset yang kecil.
+Catatan : Tetapi meski menunjukkan hasil visual dan statistik yang baik, ukuran dataset yang kecil membatasi kemampuan model untuk digunakan pada deployment skala besar.
 
 #### Prediksi Forex - Mama Des : 
 - Dataset : Menggunakan dataset lebih kecil, sekitar 260 data historis
