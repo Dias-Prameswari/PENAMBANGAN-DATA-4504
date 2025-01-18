@@ -21,8 +21,8 @@
 - Output : Memberikan hasil prediksi yang akurat untuk harga emas XAUUSD
 - Link Deployment : https://penambangan-data-4504-xuvmlhdfrqf8jrtheldpty.streamlit.app/
 - Perubahan File :
-- Prediksi Forex - Axcel : File asli yang digunakan untuk deployment, tanpa penambahan metrik evaluasi seperti F1 Score, Accuracy dan Geometric Mean
-- Prediksi Forex - Axcel-1 : File dengan pembaruan, termasuk penambahan metrik evaluasi seperti F1 Score, Accuracy dan Geometric Mean, namun tidak digunakan untuk deployment
+-- Prediksi Forex - Axcel : File asli yang digunakan untuk deployment, tanpa penambahan metrik evaluasi seperti F1 Score, Accuracy dan Geometric Mean
+-- Prediksi Forex - Axcel-1 : File dengan pembaruan, termasuk penambahan metrik evaluasi seperti F1 Score, Accuracy dan Geometric Mean, namun tidak digunakan untuk deployment
 
 #### data mining / uas / Prediksi Forex - Mama RF : 
 - Dataset : Menggunakan dataset lebih kecil, sekitar 260 data historis
@@ -30,8 +30,8 @@
 - Keunggulan : Meskipun dataset lebih kecil, hasil prediksi menunjukkan visualisasi yang mendekati nilai aktual, mengindikasikan model bekerja dengan baik pada dataset kecil
 - Perubahan File : File dengan pembaruan, termasuk penambahan metrik evaluasi seperti F1 Score, Accuracy dan Geometric Mean.
 - Hasil :
-- Test Set MAE = 4.15, menunjukkan rata - rata kesalahan prediksi yang kecil.
-- Visualisasi hasil prediksi sangat mendekati nilai aktual, mengindikasikan model bekerja dengan baik untuk dataset yang kecil.
+-- Test Set MAE = 4.15, menunjukkan rata - rata kesalahan prediksi yang kecil.
+-- Visualisasi hasil prediksi sangat mendekati nilai aktual, mengindikasikan model bekerja dengan baik untuk dataset yang kecil.
 - Catatan : Tetapi meski menunjukkan hasil visual dan statistik yang baik, ukuran dataset yang kecil membatasi kemampuan model untuk digunakan pada deployment skala besar.
 
 #### data mining / uas / Prediksi Forex - Mama Des : 
