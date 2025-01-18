@@ -22,7 +22,7 @@
 - Link Deployment : https://penambangan-data-4504-xuvmlhdfrqf8jrtheldpty.streamlit.app/
 - Perubahan File :
 - Prediksi Forex - Axcel : File asli yang digunakan untuk deployment, tanpa penambahan metrik evaluasi seperti F1 Score, Accuracy dan Geometric Mean
--- Prediksi Forex - Axcel-1 : File dengan pembaruan, termasuk penambahan metrik evaluasi seperti F1 Score, Accuracy dan Geometric Mean, namun tidak digunakan untuk deployment
+- Prediksi Forex - Axcel-1 : File dengan pembaruan, termasuk penambahan metrik evaluasi seperti F1 Score, Accuracy dan Geometric Mean, namun tidak digunakan untuk deployment
 
 #### data mining / uas / Prediksi Forex - Mama RF : 
 - Dataset : Menggunakan dataset lebih kecil, sekitar 260 data historis
